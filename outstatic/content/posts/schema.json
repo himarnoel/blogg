@@ -4,7 +4,7 @@
   "properties": {
     "sectiona": {
       "required": false,
-      "description": "",
+      "description": "just for text",
       "fieldType": "String",
       "dataType": "string",
       "title": "sectiona"
