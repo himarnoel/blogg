@@ -3,7 +3,7 @@
   "type": "object",
   "properties": {
     "sectiona": {
-      "required": false,
+      "required": true,
       "description": "just for text",
       "fieldType": "String",
       "dataType": "string",
