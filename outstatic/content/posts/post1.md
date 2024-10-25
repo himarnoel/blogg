@@ -7,6 +7,7 @@ author:
 slug: 'post1'
 description: ''
 coverImage: ''
+sectiona: 'dfsfasdafda'
 publishedAt: '2024-10-25T12:33:07.644Z'
 ---
 
